@@ -1,8 +1,8 @@
-Più istruzione non rende un paese più ricco
+# Più istruzione non rende un paese più ricco
 
 Alessandro Pistola, Corso di Laurea Magistrale in Informatica   *Dipartimento di Informatica, Università di Bologna, Bologna, BO alessandro.pistola@studio.unibo.it*
 
-Proposta di progetto per l’insegnamento Human Data Sciece
+## Proposta di progetto per l’insegnamento Human Data Sciece
 
 Anno accademico 2022-2023
 
